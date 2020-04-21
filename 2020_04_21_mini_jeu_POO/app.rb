@@ -10,8 +10,8 @@ require 'pry'
 require_relative 'lib/game'
 require_relative 'lib/player'
 
-binding.pry
 
+binding.pry
 
 # Maintenant c'est open bar pour tester ton application. Tous les fichiers importants sont chargés
 # Tu peux faire User.new, Event.new, binding.pry, User.all, etc.
